@@ -1,0 +1,21 @@
+{
+  "name": "node-github-downloader",
+  "version": "0.0.1",
+  "description": "Download branches/tags with submodules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "github"
+  ],
+  "author": "martin.jonsson@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.10.0",
+    "github": "~0.1.4",
+    "when": "~1.4.0",
+    "commander": "~1.0.1"
+  }
+}
